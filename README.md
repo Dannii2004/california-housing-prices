@@ -9,7 +9,7 @@ To get a local copy up and running, clone this repository using Git:
 git clone https://github.com/Dannii2004/california-housing-prediction.git
 
 ## Prerequisities
-Before running teh script, make sure you have:
+Before running the script, make sure you have:
 Python 3
 Libraries: 
 NumPy, scikit-learn
